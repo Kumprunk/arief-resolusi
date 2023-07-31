@@ -1,3 +1,5 @@
 Arief Resolusi
 - Menjadi Backend developer (fokus ke go)
 - Punya toko biar bisa dapet chindo hehe
+
+- ini file yang sudah diedit
